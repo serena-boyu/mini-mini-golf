@@ -3,7 +3,7 @@
 <br>Professor Rahul Bhargava
 <br>By Serena Ng and Finn Cuccia Fenton
 <br>
-<br><h2>Mini Mini Golf Project: Medusa's Lair 🐍</h2>
+<br><h2>Medusa's Lair 🐍</h2>
 <strong><i>Make it to Medusa's lair and put an end to her curse</i></strong>
 
 Medusa was cursed by Poseidon and sent to live a lonely life in her garden of statues. You, Percy Jackson, must undo your father’s and Athena’s rash decisions and free Medusa of her curse! Only by getting to the heart of the lair can you cure her.
