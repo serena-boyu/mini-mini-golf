@@ -1,2 +1,9 @@
 # mini-mini-golf
-Physical Computing Class
+ARTG3250: Physical Computing @ Northeastern University
+Professor Rahul Bhargava
+By Serena Ng and Finn Cuccia Fenton
+
+Mini Mini Golf Project: Medusa's Lair
+Make it to Medusa's lair and put an end to her curse
+
+
