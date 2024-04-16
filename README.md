@@ -4,6 +4,6 @@
 <br>By Serena Ng and Finn Cuccia Fenton
 <br>
 <br><h2>Mini Mini Golf Project: Medusa's Lair</h2>
-<br><i>Make it to Medusa's lair and put an end to her curse</i>
+<strong><i>Make it to Medusa's lair and put an end to her curse</i></strong>
 
 
